@@ -40,12 +40,20 @@ Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el de
 
 8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados transforme a su forma polar y rectangular:
 
+![image](https://user-images.githubusercontent.com/85193519/133295830-39c07cb3-d3a5-4a8d-9e0d-1c88c24e1439.png)
+![image](https://user-images.githubusercontent.com/85193519/133295887-49e855ca-10db-44d4-ae3e-34d1a2f2d485.png)
+![image](https://user-images.githubusercontent.com/85193519/133295913-02ce245f-7a68-4c59-b722-ab63db7460b5.png)
+![image](https://user-images.githubusercontent.com/85193519/133295959-260be4fc-293e-45f0-9bfc-88983dab86bf.png)
+
 
 # VIDEO
 
 # CONCLUSIONES
 
 En conclusión, el uso de fasores aplicado en problemas relacionados con la electricidad y la electrónica nos facilitan a la resolución de problemas que tengan que ver con ellos mismos dándonos a conocer sus principios básicos y usos de estos.
+
+Al realizar las trasformaciones desde sus formas rectangular y polar se puede concluir que son formas de números complejos que se utilizan para representar cantidades fasoriales, ya que una cantidad fasorial contiene tanto magnitud como posición angular.
+
 
 # BIBLIOGRAFIA
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
