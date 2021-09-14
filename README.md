@@ -44,7 +44,10 @@ Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el de
 ![image](https://user-images.githubusercontent.com/85193519/133295887-49e855ca-10db-44d4-ae3e-34d1a2f2d485.png)
 ![image](https://user-images.githubusercontent.com/85193519/133295913-02ce245f-7a68-4c59-b722-ab63db7460b5.png)
 ![image](https://user-images.githubusercontent.com/85193519/133295959-260be4fc-293e-45f0-9bfc-88983dab86bf.png)
-
+![image](https://user-images.githubusercontent.com/85193519/133296936-04155ae9-003f-4f8f-8229-f3ff3ba2d2b4.png)
+![image](https://user-images.githubusercontent.com/85193519/133296965-f0e84e35-d02b-4894-9f92-1826195c9fda.png)
+![image](https://user-images.githubusercontent.com/85193519/133296995-10a18b25-9647-41a0-8e33-2c6c102f5fef.png)
+![image](https://user-images.githubusercontent.com/85193519/133297017-1fffc17a-e9ca-49cf-9db9-2e12b4fe63cb.png)
 
 # VIDEO
 
