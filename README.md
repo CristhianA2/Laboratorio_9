@@ -53,7 +53,7 @@ Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el de
 ![image](https://user-images.githubusercontent.com/85193519/133302610-7ab8de7b-bb6c-459c-be6e-b23e3782f63c.png)
 
 # VIDEO
-
+https://www.youtube.com/watch?v=SIn82zax6Ew
 # CONCLUSIONES
 
 En conclusión, el uso de fasores aplicado en problemas relacionados con la electricidad y la electrónica nos facilitan a la resolución de problemas que tengan que ver con ellos mismos dándonos a conocer sus principios básicos y usos de estos.
