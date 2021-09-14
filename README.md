@@ -13,6 +13,8 @@ Utilizar los procesos de transformación de números complejos a su forma polar 
 Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el desarrollo de las conversiones.
 # MARCO TEORICO
 
+![13](https://user-images.githubusercontent.com/85193519/133292711-8c64e02c-59f8-42a1-97f5-155926c09e4a.jpg)
+
 # RESOLUCION DE EJERCICIOS
 ![2](https://user-images.githubusercontent.com/85193519/133291805-b39b5885-992c-4a25-b723-5467623c722d.jpg)
 ![3](https://user-images.githubusercontent.com/85193519/133291818-8575296d-285f-4c1c-b409-8ffb06aa0ef1.jpg)
