@@ -48,6 +48,9 @@ Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el de
 ![image](https://user-images.githubusercontent.com/85193519/133296965-f0e84e35-d02b-4894-9f92-1826195c9fda.png)
 ![image](https://user-images.githubusercontent.com/85193519/133296995-10a18b25-9647-41a0-8e33-2c6c102f5fef.png)
 ![image](https://user-images.githubusercontent.com/85193519/133297017-1fffc17a-e9ca-49cf-9db9-2e12b4fe63cb.png)
+![image](https://user-images.githubusercontent.com/85193519/133302576-398733c4-1249-401d-871f-ddd2d2d7a761.png)
+![image](https://user-images.githubusercontent.com/85193519/133302596-f6c2a0a4-92d1-441d-8366-47e863c28aa0.png)
+![image](https://user-images.githubusercontent.com/85193519/133302610-7ab8de7b-bb6c-459c-be6e-b23e3782f63c.png)
 
 # VIDEO
 
